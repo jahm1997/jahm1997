@@ -3,6 +3,21 @@
 
 Tambien conocido como jahm1997 en GitHub
 
+<p align="center">
+
+  <h3 align="center">A Passionate & Agile FullStack Developer +7 years exp</h3>
+
+- 😎 interesado en aportar experienci en desarrollo web
+
+- 👯 espero poder colaborar siempre en retos personales y empresariales
+  
+- 👨‍ 💻Disfruto contribuyendo a proyectos de codigo abiertos  y amante a aprender nuevas tecnologias
+  
+- 📚 amante de libros de motivación persona, desaroolo persona y educación
+
+</p>
+
+
 ## Quien soy!?
 
 Desde pequeño apasionado con la tecnologia, interesandome por su procedencia y de donde nace tanta maravilla, esto me causa mucha intriga, es por ello que empecé a estudiar programación, desde entonces he venido desarrollando la logica que traia desde niño, sumandole mis estudios, siendo ahora una gran persona apacionada por este campo laboral, donde puedo hacer que la tecnologia funcione a mi favor, gracias a mis habilidades logicas en la busqueda de soluciones
@@ -34,15 +49,15 @@ Durante el BootCamp del ministerio de las comunicaciones e información y la uni
 
 Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecnologias fascinantes que acercan mas a este mundo maravilloso:
 
-* JavaScrip
-* React Js
-* Node Js
-* Express Js
-* HTML
-* CSS
-* PostgreSQL
-* Sequelize
-* Git 
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="200"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
+    </tr>
 
 
 <p align="center">
