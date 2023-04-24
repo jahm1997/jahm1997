@@ -37,17 +37,9 @@ encontrar respuestas con codigo,
 
 ## ¿Que tecnologias uso?
 
-Durante el BootCamp del ministerio de las comunicaciones e información y la universidad tecnologica de pereira, en donde adquirí diplomados en distintas areas aprendi tecnologias como:
+* Durante el BootCamp del ministerio de las comunicaciones e información y la universidad tecnologica de pereira, en donde adquirí diplomados en distintas areas aprendi tecnologias como:
 
-* Java
-* Python
-* JavaScript
-* HTML5
-* CSS
-* MongoDB
-* Git
-
-Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecnologias fascinantes que acercan mas a este mundo maravilloso:
+* Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecnologias fascinantes que acercan mas a este mundo maravilloso:
   
   <table>
     <tr>
@@ -58,6 +50,15 @@ Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecno
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="200"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200"/></td>
     </tr>
   </table>
 
