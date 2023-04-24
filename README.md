@@ -74,7 +74,7 @@ encontrar respuestas con codigo,
   <br>
   <br>
   <a href="https://wa.me/+573225775766" target="_blank">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/Chat-WhatsApp-blue?style=flat-square&logo=appveyor">
+    <img alt="+573225775766" src="https://img.shields.io/badge/Chat-WhatsApp-blue?style=flat-square&logo=appveyor">
   </a>
   <br>
   <br>
