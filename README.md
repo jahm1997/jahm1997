@@ -73,14 +73,11 @@ encontrar respuestas con codigo,
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahm1997&show_icons=true&locale=en&layout=compact" alt="jahm1997" /></p>
 
- 
  <br>
-  <br>
+ <br>
 
 <p align="center">
   <h3 align="left">Connect with me:</h3>
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40jahm1997-blue?style=flat-square&logo=linkedin">
   </a>
