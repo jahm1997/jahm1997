@@ -45,13 +45,10 @@ Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecno
 * Git 
 
 
-No dudes en contactarte conmigo!
-
-
-Email: jahm1997@gmail.com
-telefono: +573225775766
-
 <p align="center">
+  <p>No dudes en contactarte conmigo!</p>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40jahm1997-blue?style=flat-square&logo=linkedin">
   </a>
