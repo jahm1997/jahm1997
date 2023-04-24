@@ -53,9 +53,11 @@ Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecno
     <img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40jahm1997-blue?style=flat-square&logo=linkedin">
   </a>
   <br>
+  <br>
   <a href="https://wa.me/+573225775766" target="_blank">
     <img alt="Whatsapp" src="https://img.shields.io/badge/Chat-WhatsApp-blue?style=flat-square&logo=appveyor">
   </a>
+  <br>
   <br>
   <a href="mailto:jahm19975@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-jahm1997%40gmail.com-blue?style=flat-square&logo=gmail">
