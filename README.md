@@ -51,7 +51,11 @@ No dudes en contactarte conmigo!
 Email: jahm1997@gmail.com
 telefono: +573225775766
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla" target="_blank"><img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40jahm1997-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-comingsoon-blue?style=flat-square&logo=appveyor"></a>
+<a href="mailto:jahm19975@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jahm1997%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <!--
 **jahm1997/jahm1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
