@@ -71,8 +71,6 @@ encontrar respuestas con codigo,
     </tr>
   </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahm1997&show_icons=true&locale=en&layout=compact" alt="jahm1997" /></p>
-
  <br>
  <br>
 
