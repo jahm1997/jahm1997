@@ -15,15 +15,9 @@
   
 - 📚 amante de libros de motivación persona, desarrollo personal y educación
 
-- 🔭 I’m currently working on [Best Friend](https://github.com/jahm1997/BestFriend)
+- 🔭 A estoy trabajando en ctualmente [Best Friend](https://github.com/jahm1997/BestFriend)
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 👯 I’m looking to collaborate on [CRM](https://github.com/HanJian16/CRMBack)
-
-- 💬 Ask me about **react, java, nodeJs**
-
-- 📫 How to reach me **jahm1997@gmail.com**
+- 📫 Puedo recibir infomación al siguiente correo: **jahm1997@gmail.com**
 
 </p>
 
