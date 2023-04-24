@@ -48,7 +48,8 @@ Durante el BootCamp del ministerio de las comunicaciones e información y la uni
 * Git
 
 Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecnologias fascinantes que acercan mas a este mundo maravilloso:
-
+  
+  <table>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
       <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
@@ -58,6 +59,7 @@ Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecno
       <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
     </tr>
+  </table>
 
 
 <p align="center">
