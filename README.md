@@ -74,27 +74,35 @@ encontrar respuestas con código.
 
  <br>
  <br>
-
-<p align="center">
-  <h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40jahm1997-blue?style=flat-square&logo=linkedin">
-  </a>
-  <br>
-  <br>
-  <a href="https://wa.me/+573225775766" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+573225775766-blue?style=flat-square&logo=appveyor">
-  </a>
-  <br>
-  <br>
-  <a href="mailto:jahm19975@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-jahm1997%40gmail.com-blue?style=flat-square&logo=gmail">
-  </a>
-</p>
-
-
-
-
+ 
+ <div>
+  <samp>
+    <h2 align="center"> Você pode me encontrar em: </h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      
+      <a href="https://mailto:jahm1997@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      
+      <a href="https://wa.me/+573225775766" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      
+<!--       <a href="https://instagram.com/francoatmega" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a> -->
+      
+<!--       <a href="https://twitter.com/francoatmega" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a> -->
+      <br>
+    </p>
+  </samp>
+</div>
 
 
 <!--
