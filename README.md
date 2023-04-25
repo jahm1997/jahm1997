@@ -76,8 +76,7 @@ encontrar respuestas con código.
  <br>
  
  <div>
-  <samp>
-    <h2 align="center"> Você pode me encontrar em: </h2>
+    <h2 align="center"> Puedes contactarme en: </h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="blank"><img align="center"
@@ -101,7 +100,6 @@ encontrar respuestas con código.
          alt="azzar" height="30"/></a> -->
       <br>
     </p>
-  </samp>
 </div>
 
 
