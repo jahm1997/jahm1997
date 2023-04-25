@@ -76,6 +76,7 @@ encontrar respuestas con código.
  <br>
  
  <div>
+   <samp>
     <h2 align="center"> Puedes contactarme en: </h2>
     <p align="center">
       <br>
@@ -111,6 +112,7 @@ encontrar respuestas con código.
            alt="azzar" height="30"/></a> -->
       </br>
     </p>
+    </samp>
 </div>
 
 
