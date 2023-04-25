@@ -75,13 +75,11 @@ encontrar respuestas con código.
  <br>
  <br>
  
- <div>
+ <tr>
    <samp>
     <h2 align="center"> Puedes contactarme en: </h2>
-      <p align="center">
-        <br>
-
-          <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="blank">
+      <p align="center">          
+        <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="blank">
             <img align="center"
              src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
              alt="azzar" height="30"/>
@@ -98,13 +96,9 @@ encontrar respuestas con código.
              src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
              alt="azzar" height="30"/>
           </a>
-
-        <br>
-
       </p>
-  
     </samp>
-</div>
+</tr>
 
 <!--       <a href="https://instagram.com/francoatmega" target="blank"><img align="center"
            src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
