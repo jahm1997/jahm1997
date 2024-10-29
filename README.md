@@ -34,24 +34,16 @@
 Desde pequeño apasionado con la tecnología, interesándome por su procedencia y de donde nace tanta maravilla, esto me causa mucha intriga, es por ello que empecé a estudiar programación, desde entonces he venido desarrollando la lógica que traía desde niño, sumándole mis estudios, siendo ahora una gran persona apasionada por este campo laboral, donde puedo hacer que la tecnología funcione a mi favor, gracias a mis habilidades lógicas en la búsqueda de soluciones
 
 
-## ¿Que hago?
-
-Actualmente, me dedico a realizar proyectos pequeños que permitan avanzar mi aprendizaje en mi formación como programador.
-
-
 ## ¿A dónde me dirijo?
 
 Mi objetivo principal es poder dejar mi marca personal en el corazón de toda persona que se relacione conmigo, quiero lograr esto más que nada
-durante mi progreso como programador, ya que disfruto lo que hago y lo hago con amor, por lo que saldrá naturalmente de mí, cada esfuerzo para
+durante mi progreso como desarrollador, ya que disfruto lo que hago y lo hago con amor, por lo que saldrá naturalmente de mí, cada esfuerzo para
 encontrar respuestas con código.
 
 
 ## ¿Qué tecnologías uso?
 
-* Durante el BootCamp del ministerio de las comunicaciones e información y la universidad tecnológica de Pereira, en donde adquirí diplomados en distintas áreas aprendí tecnologías como:
-
-* Durante el BootCamp de HENRY he adquirido mayor conocimiento aún en otras tecnologías fascinantes que acercan más a este mundo maravilloso:
-  
+* Explora conmigo!
   <table>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
