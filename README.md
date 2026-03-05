@@ -22,8 +22,6 @@
   
 - 📚 amante de libros de motivación persona, desarrollo personal y educación
 
-- 🔭 A estoy trabajando en ctualmente [Best Friend](https://github.com/jahm1997/BestFriend)
-
 - 📫 Puedo recibir infomación al siguiente correo: **jahm1997@gmail.com**
 
 </p>
@@ -31,14 +29,49 @@
 
 ## Quien soy!?
 
-Desde pequeño apasionado con la tecnología, interesándome por su procedencia y de donde nace tanta maravilla, esto me causa mucha intriga, es por ello que empecé a estudiar programación, desde entonces he venido desarrollando la lógica que traía desde niño, sumándole mis estudios, siendo ahora una gran persona apasionada por este campo laboral, donde puedo hacer que la tecnología funcione a mi favor, gracias a mis habilidades lógicas en la búsqueda de soluciones
+## Acerca de mí
 
+Soy **Ingeniero Full Stack especializado en Internet Industrial de las Cosas (IIoT), telecomunicaciones y digitalización industrial**.
 
-## ¿A dónde me dirijo?
+Diseño e implemento plataformas tecnológicas que conectan **equipos industriales, sensores y PLC con infraestructura cloud, APIs y sistemas de datos**, permitiendo monitoreo en tiempo real, automatización y analítica operativa.
 
-Mi objetivo principal es poder dejar mi marca personal en el corazón de toda persona que se relacione conmigo, quiero lograr esto más que nada
-durante mi progreso como desarrollador, ya que disfruto lo que hago y lo hago con amor, por lo que saldrá naturalmente de mí, cada esfuerzo para
-encontrar respuestas con código.
+Mi enfoque principal es la **integración entre entornos OT (Operational Technology) e IT**, desarrollando arquitecturas robustas que unen hardware industrial con plataformas modernas de software.
+
+## Resultados destacados
+
+- Reducción de **25% en tiempos de entrega** mediante implementación de buenas prácticas y automatización.
+- Optimización de **60% en flujos de trabajo** mediante herramientas tecnológicas personalizadas.
+- Desarrollo de plataformas completas de **monitoreo IIoT con analítica en tiempo real**.
+
+## Tecnologías
+
+### Backend y Cloud
+- Java
+- Spring Boot
+- Node.js
+- Python
+- AWS
+
+### Frontend
+- React
+- Vue
+- Angular
+
+### Industrial y Redes
+- MQTT
+- Integración de sensores
+- Gateways IIoT
+- Infraestructura de red empresarial
+- Seguridad con Fortinet
+
+## Intereses profesionales
+
+Estoy especialmente interesado en proyectos relacionados con:
+
+- **Plataformas Industrial IoT**
+- **Industria 4.0**
+- **Analítica operativa**
+- **Sistemas industriales conectados a la nube**
 
 
 ## ¿Qué tecnologías uso?
