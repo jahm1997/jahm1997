@@ -6,7 +6,7 @@
 
 
 ### Hola 👋
-### Mi nombre es Joseph Angel Herrera Mantilla
+### Soy Joseph Angel Herrera Mantilla
 
 
 <p align="center">
@@ -14,13 +14,11 @@
   <h3 align="center"> Apasionado y ágil Full Stack Developer </h3>
   
 
-- 😎 interesado en aportar experiencia en desarrollo web
+- 😎 interesado en aportar experiencia en desarrollo de plataformas de alto rendimiento
 
 - 👯 espero poder colaborar siempre en retos personales y empresariales
   
-- 👨‍ 💻Disfruto contribuyendo a proyectos de codigo abiertos  y amante a aprender nuevas tecnologías
-  
-- 📚 amante de libros de motivación persona, desarrollo personal y educación
+- 👨‍ 💻Disfruto contribuyendo a proyectos de codigo abiertos y amante a aprender nuevas tecnologías
 
 - 📫 Puedo recibir infomación al siguiente correo: **jahm1997@gmail.com**
 
