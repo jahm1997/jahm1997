@@ -64,17 +64,15 @@ Mi enfoque principal es la **integración entre entornos OT (Operational Technol
 - Integración de sensores
 - Gateways IIoT
 - Infraestructura de red empresarial
-- Seguridad con Fortinet
 
 ## Intereses profesionales
 
 Estoy especialmente interesado en proyectos relacionados con:
 
-- **Plataformas Industrial IoT**
+- **Plataformas Escalable del sector priavdo e Industrial**
 - **Industria 4.0**
-- **Analítica operativa**
+- **Analíticas operativas en tiempo real**
 - **Sistemas industriales conectados a la nube**
-
 
 ## ¿Qué tecnologías uso?
 
