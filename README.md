@@ -1,10 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Joseph%20Herrera&desc=Backend%20Developer&fontSize=90&animation=fadeIn)
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=jahm1997)](https://github.com/marshallku/gitgarden)
+#[![GitGarden](https://gitgarden.marshallku.dev/?user_name=jahm1997)](https://github.com/marshallku/gitgarden)
 
 
 ### Hola 👋
