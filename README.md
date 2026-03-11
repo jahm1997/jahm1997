@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Joseph%20Herrera-nl-Software%20Developer&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Joseph%20Herrera-nl-Software%20Developer&fontSize=60&animation=fadeIn)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
