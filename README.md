@@ -35,7 +35,7 @@
 
 Soy **Ingeniero Full Stack especializado en Internet Industrial de las Cosas (IIoT), telecomunicaciones y digitalización industrial**.
 
-Diseño e implemento plataformas tecnológicas que conectan **equipos industriales, sensores y PLC con infraestructura cloud, APIs y sistemas de datos**, permitiendo monitoreo en tiempo real, automatización y analítica operativa.
+Diseño e implemento plataformas tecnológicas que conectan **equipos industriales, extracción de datos de sensores y plc con infraestructura cloud, APIs y sistemas de datos**, permitiendo monitoreo en tiempo real, automatización y analítica operativa.
 
 Mi enfoque principal es la **integración entre entornos OT (Operational Technology) e IT**, desarrollando arquitecturas robustas que unen hardware industrial con plataformas modernas de software.
 
