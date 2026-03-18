@@ -33,7 +33,7 @@
 
 ## Acerca de mí
 
-Soy **Ingeniero Full Stack especializado en Internet Industrial de las Cosas (IIoT), telecomunicaciones y digitalización industrial**.
+Soy **Desarrollador Full Stack especializado en Internet Industrial de las Cosas (IIoT), telecomunicaciones y digitalización industrial**.
 
 Diseño e implemento plataformas tecnológicas que conectan **equipos industriales, extracción de datos de sensores y plc con infraestructura cloud, APIs y sistemas de datos**, permitiendo monitoreo en tiempo real, automatización y analítica operativa.
 
