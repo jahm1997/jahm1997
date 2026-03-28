@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### 👋 ¡Hola! [cite_start]Soy Joseph Angel Herrera Mantilla [cite: 3]
+### 👋 ¡Hola! Soy Joseph Angel Herrera Mantilla
 
 <p align="center">
   <h3 align="center">Ingeniería de Software Integral: Desde la Infraestructura hasta el Cliente</h3>
@@ -28,45 +28,45 @@ Soy un **Desarrollador Full Stack** con dominio absoluto del ciclo de vida del s
 ## 💼 Experiencia Laboral
 
 **Desarrollador FrontEnd Senior (Full Stack)** | *SENSORA SAS*
-[cite_start]*Enero 2024 – Actualidad* [cite: 16]
-* [cite_start]Diseño, construcción y despliegue de arquitecturas de software en entornos híbridos (cloud y on-premise)[cite: 18].
-* [cite_start]Gestión integral de la infraestructura: administración de servidores, redes, conexiones de datos y entornos de producción[cite: 21, 22].
-* [cite_start]Desarrollo de soluciones Full Stack con procesamiento en tiempo real[cite: 24], integrando datos operativos extraídos de redes industriales hacia interfaces escalables.
-* [cite_start]Ejecución de migraciones controladas y despliegues end-to-end, asegurando la continuidad del negocio y minimizando tiempos de inactividad[cite: 23].
+*Enero 2024 – Actualidad*
+* Diseño, construcción y despliegue de arquitecturas de software en entornos híbridos (cloud y on-premise).
+* Gestión integral de la infraestructura: administración de servidores, redes, conexiones de datos y entornos de producción.
+* Desarrollo de soluciones Full Stack con procesamiento en tiempo real, integrando datos operativos extraídos de redes industriales hacia interfaces escalables.
+* Ejecución de migraciones controladas y despliegues end-to-end, asegurando la continuidad del negocio y minimizando tiempos de inactividad.
 
 **Desarrollador de Software (Full Stack)** | *SMARTIC S.A.S*
-[cite_start]*Agosto 2023 – Diciembre 2023* [cite: 31]
-* [cite_start]Construcción de soluciones Full Stack estructuradas bajo arquitectura MVC y principios SOLID para garantizar escalabilidad y mantenibilidad[cite: 34, 35, 36].
-* [cite_start]Configuración de entornos de desarrollo y despliegue orientados a producción, respaldados con pruebas unitarias y documentación técnica[cite: 37, 38].
-* [cite_start]Integración de sistemas y desarrollo de funcionalidades orientadas a ecosistemas tecnológicos industriales[cite: 32].
+*Agosto 2023 – Diciembre 2023*
+* Construcción de soluciones Full Stack estructuradas bajo arquitectura MVC y principios SOLID para garantizar escalabilidad y mantenibilidad.
+* Configuración de entornos de desarrollo y despliegue orientados a producción, respaldados con pruebas unitarias y documentación técnica.
+* Integración de sistemas y desarrollo de funcionalidades orientadas a ecosistemas tecnológicos industriales.
 
 **Asistente de Enseñanza (Remoto)** | *HENRY*
-[cite_start]*Febrero 2023 – Abril 2023* [cite: 46]
-* [cite_start]Acompañamiento técnico y resolución de bloqueos en desarrollo de software para estudiantes del Bootcamp, fomentando buenas prácticas y Pair Programming[cite: 47, 49, 50].
+*Febrero 2023 – Abril 2023*
+* Acompañamiento técnico y resolución de bloqueos en desarrollo de software para estudiantes del Bootcamp, fomentando buenas prácticas y Pair Programming.
 
 **Auxiliar de Planta** | *Jiro S.A. (Misión Andercol)*
-[cite_start]*Junio 2021 – Diciembre 2023* [cite: 63, 70]
-* [cite_start]Operación de sistemas de control automatizado y monitoreo constante de equipos e instrumentación (reactores, medidores, válvulas)[cite: 63, 65]. *(Esta etapa consolidó mi comprensión profunda de la capa física e industrial que hoy integro y analizo mediante software).*
+*Junio 2021 – Diciembre 2023*
+* Operación de sistemas de control automatizado y monitoreo constante de equipos e instrumentación (reactores, medidores, válvulas). *(Esta etapa consolidó mi comprensión profunda de la capa física e industrial que hoy integro y analizo mediante software).*
 
 **Auxiliar de Máquina** | *PHOENIX PACKAGING CARIBE S.A.S*
-[cite_start]*Julio 2017 – Octubre 2019* [cite: 78]
-* [cite_start]Soporte técnico, monitoreo de variables de proceso y ajustes en equipos de producción[cite: 81, 82, 83].
+*Julio 2017 – Octubre 2019*
+* Soporte técnico, monitoreo de variables de proceso y ajustes en equipos de producción.
 
 ---
 
 ## 🎓 Estudios y Certificaciones
 
 **Inglés (Módulo 2)** | *Centro Colombo Americano de Cartagena*
-[cite_start]*Inicio: Febrero 2026 – Actualidad* [cite: 4]
-* [cite_start]Formación para el dominio del idioma en contextos técnicos y de negocios[cite: 4].
+*Inicio: Febrero 2026 – Actualidad*
+* Formación para el dominio del idioma en contextos técnicos y de negocios.
 
 **Desarrollador Full Stack (Bootcamp 600 Horas)** | *HENRY*
-[cite_start]*Enero 2023 – Abril 2023 (Grado: Abril 2023)* [cite: 5]
-* [cite_start]Entrenamiento inmersivo en desarrollo web, arquitecturas modernas y herramientas de despliegue[cite: 5].
+*Enero 2023 – Abril 2023 (Grado: Abril 2023)*
+* Entrenamiento inmersivo en desarrollo web, arquitecturas modernas y herramientas de despliegue.
 
 **Desarrollador de Software & Habilidades en Programación Web (1600 Horas)** | *MinTic y U. Tecnológica de Pereira*
-[cite_start]*Marzo 2022 – Diciembre 2022* [cite: 5]
-* [cite_start]Fundamentación técnica en lenguajes de programación, lógica de software y ecosistema web[cite: 5].
+*Marzo 2022 – Diciembre 2022*
+* Fundamentación técnica en lenguajes de programación, lógica de software y ecosistema web.
 
 ---
 
