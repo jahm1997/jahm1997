@@ -1,139 +1,71 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Joseph%20Herrera-nl-Desarrollador%20Full%20Stack&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Joseph%20Herrera&desc=Full%20Stack%20Developer%20|%20Data%20Visualization&fontSize=60&descSize=20&animation=fadeIn)
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://github.com/jahm1997">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahm1997&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
-<!--[![GitGarden](https://gitgarden.marshallku.dev/?user_name=jahm1997)](https://github.com/marshallku/gitgarden)-->
-
-
-### Hola 👋
-### Soy Joseph Angel Herrera Mantilla
-
+### 👋 ¡Hola! Soy Joseph Angel Herrera Mantilla
 
 <p align="center">
-
-  <h3 align="center"> Apasionado y ágil Full Stack Developer </h3>
-  
-
-- 😎 interesado en aportar experiencia en desarrollo de plataformas de alto rendimiento
-
-- 👯 espero poder colaborar siempre en retos personales y empresariales
-  
-- 👨‍ 💻Disfruto contribuyendo a proyectos de codigo abiertos y amante a aprender nuevas tecnologías
-
-- 📫 Puedo recibir infomación al siguiente correo: **jahm1997@gmail.com**
-
+  <h3 align="center">Desarrollador Full Stack | Especialista en Visualización de Datos Industriales</h3>
 </p>
 
+---
 
-## Quien soy!?
+## 👨‍💻 Acerca de mí
 
-## Acerca de mí
+Soy un **Desarrollador Full Stack** enfocado en crear soluciones de software que transforman datos crudos en información visual de alto impacto. Mi especialidad es tender un puente entre el entorno industrial (OT) y el entorno de software (IT). 
 
-Soy **Desarrollador Full Stack especializado en Internet Industrial de las Cosas (IIoT), telecomunicaciones y digitalización industrial**.
+* 🔌 **Integración y Datos:** No programo PLCs ni instalo redes físicas, pero entiendo a la perfección su arquitectura (Profinet, Intranet). Me conecto a estos sistemas para extraer valores críticos en tiempo real.
+* 📊 **Dashboards y Visualización:** Transformo esos datos en paneles interactivos, gráficos dinámicos y métricas operativas que facilitan la toma de decisiones empresariales.
+* 🚀 **Desarrollo Ágil:** Me apasiona crear interfaces limpias, escalables y optimizadas para entornos de alta exigencia, asegurando que la información fluya sin interrupciones desde la planta hasta la nube.
+* 🌱 Actualmente sigo perfeccionando mis habilidades y siempre estoy dispuesto a colaborar en retos que involucren análisis de datos en tiempo real y desarrollo web moderno.
 
-Diseño e implemento plataformas tecnológicas que conectan **equipos industriales, extracción de datos de sensores y plc con infraestructura cloud, APIs y sistemas de datos**, permitiendo monitoreo en tiempo real, automatización y analítica operativa.
+## 💼 Experiencia Destacada
 
-Mi enfoque principal es la **integración entre entornos OT (Operational Technology) e IT**, desarrollando arquitecturas robustas que unen hardware industrial con plataformas modernas de software.
+* **Desarrollador FrontEnd Senior (Full Stack)** - *SENSORA SAS* Construcción de soluciones escalables en entornos híbridos (cloud y on-premise), enfocándome en interfaces de alto rendimiento y consumo de datos en tiempo real.
+* **Desarrollador Full Stack** - *SMARTIC S.A.S* Desarrollo de funcionalidades bajo arquitectura MVC, implementando principios SOLID y buenas prácticas para soluciones tecnológicas integradas.
 
-## Resultados destacados
+## 🛠️ Stack Tecnológico
 
-- Reducción de **25% en tiempos de entrega** mediante implementación de buenas prácticas y automatización.
-- Optimización de **60% en flujos de trabajo** mediante herramientas tecnológicas personalizadas.
-- Desarrollo de plataformas completas de **monitoreo IIoT con analítica en tiempo real**.
+**Frontend & UI**
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="React"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" alt="Tailwind"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="Redux"/>
 
-## Tecnologías
+**Backend & Bases de Datos**
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" alt="Express"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" alt="MongoDB"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/>
 
-### Backend y Cloud
-- Java
-- Spring Boot
-- Node.js
-- Python
-- AWS
+**Herramientas & Entorno Industrial**
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" alt="Git"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>&nbsp;
+*(Experiencia con protocolos MQTT, lectura Profinet, WebSockets y APIs REST para extracción de datos)*
 
-### Frontend
-- React
-- Vue
-- Angular
+---
 
-### Industrial y Redes
-- MQTT
-- Integración de sensores
-- Gateways IIoT
-- Infraestructura de red empresarial
+## 📫 ¡Conectemos!
 
-## Intereses profesionales
+Si estás buscando a alguien que convierta la complejidad de los datos en interfaces intuitivas, escríbeme:
 
-Estoy especialmente interesado en proyectos relacionados con:
-
-- **Plataformas Escalable del sector priavdo e Industrial**
-- **Industria 4.0**
-- **Analíticas operativas en tiempo real**
-- **Sistemas industriales conectados a la nube**
-
-## ¿Qué tecnologías uso?
-
-* Explora conmigo!
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
-      <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="200"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="200"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200"/></td>
-    </tr>
-  </table>
-
- <br>
- <br>
- 
- <tr>
-   <samp>
-    <h2 align="center"> Puedes contactarme en: </h2>
-      <p align="center">          
-        <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="blank"><img align="center"
-             src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-             alt="azzar" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mailto:jahm1997@gmail.com" target="blank"><img align="center"
-             src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-             alt="azzar" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/+573013316136" target="blank"><img align="center"
-             src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-             alt="azzar" height="30"/></a>
-      </p>
-    </samp>
-</tr>
-
-<!--       <a href="https://instagram.com/francoatmega" target="blank"><img align="center"
-           src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-           alt="azzar" height="30"/></a> -->
-
-  <!--       <a href="https://twitter.com/francoatmega" target="blank"><img align="center"
-           src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-           alt="azzar" height="30"/></a> -->
-
-<!--
-**jahm1997/jahm1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jahm1997@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/+573013316136" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
