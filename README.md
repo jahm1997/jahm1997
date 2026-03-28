@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Joseph%20Herrera&desc=Full%20Stack%20Developer%20|%20Data%20Visualization&fontSize=60&descSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Joseph%20Herrera&desc=Desarrollador%20Full%20Stack%20%7C%20Arquitecturas%20End-to-End&fontSize=60&descSize=20&animation=fadeIn)
 
 <div align="center">
   <a href="https://github.com/jahm1997">
@@ -6,73 +6,86 @@
   </a>
 </div>
 
-### 👋 ¡Hola! Soy Joseph Angel Herrera Mantilla
+### 👋 ¡Hola! [cite_start]Soy Joseph Angel Herrera Mantilla [cite: 3]
 
 <p align="center">
-  <h3 align="center">Desarrollador Full Stack | Especialista en Visualización de Datos Industriales</h3>
+  <h3 align="center">Ingeniería de Software Integral: Desde la Infraestructura hasta el Cliente</h3>
 </p>
 
 ---
 
 ## 👨‍💻 Acerca de mí
 
-Soy un **Desarrollador Full Stack** enfocado en crear soluciones de software que transforman datos crudos en información visual de alto impacto. Mi especialidad es tender un puente entre el entorno industrial (OT) y el entorno de software (IT). 
+Soy un **Desarrollador Full Stack** con dominio absoluto del ciclo de vida del software. Mi enfoque es construir soluciones tecnológicas end-to-end robustas, escalables y listas para producción. No solo escribo código; diseño e implemento todo el flujo de trabajo necesario para que un sistema opere al más alto nivel.
 
-* 🔌 **Integración y Datos:** Entiendo a la perfección las arquitecturas de red industriales (Profinet, Intranet). Mi fuerte es conectarme a estos sistemas (PLCs, sensores) para extraer valores críticos en tiempo real, sin necesidad de programarlos desde cero ni instalar la infraestructura física.
-* 📊 **Dashboards y Visualización:** Transformo esos datos operativos en paneles interactivos, gráficos dinámicos y métricas que facilitan la toma de decisiones.
-* 🚀 **Desarrollo Ágil:** Me apasiona crear interfaces limpias, escalables y optimizadas para entornos de alta exigencia, asegurando que la información fluya sin interrupciones desde la planta hasta la nube.
-* 🌱 Actualmente sigo perfeccionando mis habilidades tecnológicas y mi nivel de inglés, siempre dispuesto a colaborar en retos que involucren análisis de datos en tiempo real y desarrollo web moderno.
+* 🏗️ **Arquitectura y Flujo Completo:** Domino la creación de software en todas sus capas. Desde la gestión de servidores, control de dominios y configuración de certificados SSL, hasta el diseño de bases de datos, desarrollo de microservicios en el Backend y renderizado óptimo en el Frontend. Construyo ecosistemas seguros tanto para entornos de prueba como de producción.
+* 🔌 **Integración IT/OT (Mi valor agregado):** Poseo la capacidad analítica para comprender infraestructuras de red industriales (Intranet, Profinet). Me conecto a estos entornos para extraer telemetría y variables de PLCs/Sensores en tiempo real, integrando el mundo físico con arquitecturas web modernas sin necesidad de intervenir en la programación lógica del hardware.
+* 🚀 **Desarrollo Orientado a Resultados:** Construyo plataformas de alto rendimiento que garantizan la disponibilidad, la estabilidad y la seguridad del servicio, transformando requerimientos complejos en aplicaciones intuitivas y eficientes.
+* 🌱 Actualmente sigo expandiendo mis horizontes técnicos y perfeccionando mi nivel de inglés para entornos internacionales.
 
 ---
 
 ## 💼 Experiencia Laboral
 
 **Desarrollador FrontEnd Senior (Full Stack)** | *SENSORA SAS*
-*Enero 2024 – Actualidad*
-* Construcción de soluciones escalables en entornos híbridos (cloud y on-premise), enfocándome en interfaces de alto rendimiento.
-* Conexión a redes industriales e interpretación de datos para la extracción de métricas en tiempo real y su visualización en dashboards interactivos.
-* Ejecución de despliegues a producción, administración de servidores y conexiones de datos para asegurar la disponibilidad de los servicios.
+[cite_start]*Enero 2024 – Actualidad* [cite: 16]
+* [cite_start]Diseño, construcción y despliegue de arquitecturas de software en entornos híbridos (cloud y on-premise)[cite: 18].
+* [cite_start]Gestión integral de la infraestructura: administración de servidores, redes, conexiones de datos y entornos de producción[cite: 21, 22].
+* [cite_start]Desarrollo de soluciones Full Stack con procesamiento en tiempo real[cite: 24], integrando datos operativos extraídos de redes industriales hacia interfaces escalables.
+* [cite_start]Ejecución de migraciones controladas y despliegues end-to-end, asegurando la continuidad del negocio y minimizando tiempos de inactividad[cite: 23].
 
 **Desarrollador de Software (Full Stack)** | *SMARTIC S.A.S*
-*Agosto 2023 – Diciembre 2023*
-* Desarrollo de funcionalidades Full Stack utilizando JavaScript y React, estructurando soluciones bajo arquitectura MVC.
-* Implementación de principios SOLID y estándares de codificación para crear código modular y mantenible.
-* Integración de sistemas y analítica de datos operativos orientados a la industria tecnológica.
+[cite_start]*Agosto 2023 – Diciembre 2023* [cite: 31]
+* [cite_start]Construcción de soluciones Full Stack estructuradas bajo arquitectura MVC y principios SOLID para garantizar escalabilidad y mantenibilidad[cite: 34, 35, 36].
+* [cite_start]Configuración de entornos de desarrollo y despliegue orientados a producción, respaldados con pruebas unitarias y documentación técnica[cite: 37, 38].
+* [cite_start]Integración de sistemas y desarrollo de funcionalidades orientadas a ecosistemas tecnológicos industriales[cite: 32].
 
 **Asistente de Enseñanza (Remoto)** | *HENRY*
-*Febrero 2023 – Abril 2023*
-* Acompañamiento técnico a estudiantes del Bootcamp en la resolución de ejercicios y comprensión de conceptos de programación web.
-* Soporte en la identificación y resolución de bloqueos técnicos mediante prácticas de Pair Programming.
+[cite_start]*Febrero 2023 – Abril 2023* [cite: 46]
+* [cite_start]Acompañamiento técnico y resolución de bloqueos en desarrollo de software para estudiantes del Bootcamp, fomentando buenas prácticas y Pair Programming[cite: 47, 49, 50].
 
 **Auxiliar de Planta** | *Jiro S.A. (Misión Andercol)*
-*Junio 2021 – Diciembre 2023*
-* Operación y monitoreo de sistemas de control automatizado, asegurando la continuidad del proceso productivo.
-* Inspección continua de variables en reactores, válvulas y medidores industriales. *(Esta experiencia base me dio el entendimiento de los entornos físicos que hoy integro mediante software).*
+[cite_start]*Junio 2021 – Diciembre 2023* [cite: 63, 70]
+* [cite_start]Operación de sistemas de control automatizado y monitoreo constante de equipos e instrumentación (reactores, medidores, válvulas)[cite: 63, 65]. *(Esta etapa consolidó mi comprensión profunda de la capa física e industrial que hoy integro y analizo mediante software).*
 
 **Auxiliar de Máquina** | *PHOENIX PACKAGING CARIBE S.A.S*
-*Julio 2017 – Octubre 2019*
-* Soporte técnico, operación y ajustes de configuración en maquinaria industrial.
-* Monitoreo de variables críticas del proceso productivo y ejecución de inspecciones para asegurar la calidad.
+[cite_start]*Julio 2017 – Octubre 2019* [cite: 78]
+* [cite_start]Soporte técnico, monitoreo de variables de proceso y ajustes en equipos de producción[cite: 81, 82, 83].
 
 ---
 
 ## 🎓 Estudios y Certificaciones
 
-**Inglés (Nivel Actual: Módulo 2)** | *Centro Colombo Americano de Cartagena*
-*Inicio: Febrero 2026 – Actualidad*
-* Curso intensivo enfocado en el dominio del idioma para entornos tecnológicos e internacionales.
+**Inglés (Módulo 2)** | *Centro Colombo Americano de Cartagena*
+[cite_start]*Inicio: Febrero 2026 – Actualidad* [cite: 4]
+* [cite_start]Formación para el dominio del idioma en contextos técnicos y de negocios[cite: 4].
 
 **Desarrollador Full Stack (Bootcamp 600 Horas)** | *HENRY*
-*Enero 2023 – Abril 2023*
-* Formación intensiva y práctica en tecnologías web modernas, arquitecturas escalables y desarrollo de software.
+[cite_start]*Enero 2023 – Abril 2023 (Grado: Abril 2023)* [cite: 5]
+* [cite_start]Entrenamiento inmersivo en desarrollo web, arquitecturas modernas y herramientas de despliegue[cite: 5].
 
-**Desarrollador de Software & Habilidades en Programación Web (1600 Horas)** | *MinTic y Universidad Tecnológica de Pereira (UTP)*
-*Marzo 2022 – Diciembre 2022*
-* Formación integral en lógica de programación, desarrollo de software y construcción de aplicaciones web.
+**Desarrollador de Software & Habilidades en Programación Web (1600 Horas)** | *MinTic y U. Tecnológica de Pereira*
+[cite_start]*Marzo 2022 – Diciembre 2022* [cite: 5]
+* [cite_start]Fundamentación técnica en lenguajes de programación, lógica de software y ecosistema web[cite: 5].
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico y Flujo de Trabajo
+
+**Infraestructura, DevOps & Backend**
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" alt="Express"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" alt="Git"/>
+<br>
+*(Gestión de entornos de Prueba/Producción, Certificados SSL, Dominios, Microservicios, APIs REST, WebSockets, MQTT, Integración Profinet)*
+
+**Bases de Datos**
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" alt="MongoDB"/>
 
 **Frontend & UI**
 <br>
@@ -82,25 +95,11 @@ Soy un **Desarrollador Full Stack** enfocado en crear soluciones de software que
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" alt="Tailwind"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="Redux"/>
 
-**Backend & Bases de Datos**
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" alt="Express"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" alt="MongoDB"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/>
-
-**Herramientas & Entorno Industrial**
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" alt="Git"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>&nbsp;
-*(Experiencia con protocolos MQTT, lectura Profinet, WebSockets y APIs REST para extracción de datos)*
-
 ---
 
-## 📫 ¡Conectemos!
+## 📫 ¡Hablemos de código y arquitectura!
 
-Si estás buscando a alguien que convierta la complejidad de los datos en interfaces intuitivas, escríbeme:
+Si buscas un perfil capaz de levantar un proyecto desde cero, configurar su infraestructura y llevarlo hasta el usuario final, contáctame:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="_blank">
