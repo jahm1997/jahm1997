@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- HERO BANNER (Vector SVG Retina Crisp - Sin Pixelación) -->
-  <img src="./assets/hero-banner.svg" alt="Joseph Ángel Herrera Mantilla - Industrial IoT Architect & Senior Full Stack" width="100%" />
+  <!-- BANNER VECTORIAL DINÁMICO (Carga 100% online y nítido sin necesidad de subir archivos locales) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=220&section=header&text=JOSEPH%20ÁNGEL%20HERRERA%20MANTILLA&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20IoT%20Architect%20•%20Distributed%20Backend%20%26%20Cloud%20Systems&descAlignY=58&descAlign=50&descSize=14" width="100%" alt="Header Joseph Herrera" />
+
+  <!-- TERMINAL TYPING DINÁMICO EN TIEMPO REAL -->
+  <a href="https://jahm1997.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=jahm1997%40edge-gateway%3A~%24+status+--ecosystem;OT+Field+Telemetry+%E2%9E%94+MQTT+%2F+WebSockets+%E2%9E%94+Distributed+Backend;Zero-Downtime+Production+Architectures+%7C+Multi-Tenant;Live+Nodes%3A+jahm1997.com+%E2%80%A2+josephangelherreramantilla.com" alt="Typing SVG" />
+  </a>
 
   <br/><br/>
 
@@ -45,11 +50,19 @@ jahm1997@edge-cluster:~$ systemctl status jahm-architecture.service
 
 ### 🌐 Arquitectura de Flujo End-to-End (OT ➔ IT)
 
-<div align="center">
-  <img src="./assets/architecture-flow.svg" alt="Diagrama de Arquitectura End-to-End" width="100%" />
-</div>
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117', 'primaryColor': '#161b22', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff' }}}%%
+flowchart LR
+    A(["<b>1. Capa OT & Sensores</b><br/><i>PLCs · Sensores · Modbus</i>"]) -.-> B(["<b>2. Ingesta & Streaming</b><br/><i>MQTT Broker · WebSockets</i>"])
+    B -.-> C(["<b>3. Microservicios Core</b><br/><i>Node.js · Python · Multi-Tenant</i>"])
+    C -.-> D(["<b>4. Persistencia Dual</b><br/><i>PostgreSQL · MongoDB · Redis</i>"])
+    D -.-> E(["<b>5. Cloud & Orquestación</b><br/><i>Docker · Nginx · Zero-Downtime</i>"])
+    E -.-> F(["<b>6. Frontend & Control</b><br/><i>React Dashboards · Tiempo Real</i>"])
 
-<br/>
+    classDef default fill:#161b22,stroke:#30363d,stroke-width:1.5px,color:#f0f6fc;
+    classDef active fill:#152238,stroke:#388bfd,stroke-width:2.5px,color:#ffffff;
+    class C active;
+```
 
 > **Criterio de Ingeniería Híbrido:** Diseño de soluciones que conectan la instrumentación física en planta (sensores, PLCs, telemetría continua) con arquitecturas de microservicios distribuidos, garantizando resiliencia, aislamiento multi-inquilino y visualización en tiempo real sin saturar la red operativa.
 
