@@ -1,99 +1,94 @@
 <div align="center">
 
-```
-  ██╗ █████╗ ██╗  ██╗███╗   ███╗██╗██████╗  ██████╗ ███████╗
-  ██║██╔══██╗██║  ██║████╗ ████║███║██╔══██╗██╔═████╗╚════██║
-  ██║███████║███████║██╔████╔██║╚██║╚██████║██║██╔██║    ██╔╝
-  ██║██╔══██║██╔══██║██║╚██╔╝██║ ██║ ╚═══██║████╔╝██║   ██╔╝ 
-████║██║  ██║██║  ██║██║ ╚═╝ ██║ ██║██████╔╝╚██████╔╝   ██║  
-╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═╝╚═════╝  ╚═════╝    ╚═╝   
-```
+  <!-- HERO BANNER (Vector SVG Retina Crisp - Sin Pixelación) -->
+  <img src="./assets/hero-banner.svg" alt="Joseph Ángel Herrera Mantilla - Industrial IoT Architect & Senior Full Stack" width="100%" />
 
-### **Joseph Ángel Herrera Mantilla**
-#### **Industrial IoT Architect & Senior Full Stack Engineer**
-*Bridging Industrial Field Operations (OT) with Resilient Cloud Architectures (IT)*
+  <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-angel-herrera-mantilla/)
-[![Portfolio](https://img.shields.io/badge/Live_Platform-00D26A?style=for-the-badge&logo=google-cloud&logoColor=white)](https://services.josephangelherreramantilla.com)
-[![Web CV](https://img.shields.io/badge/Curriculum_Web-4B6BFB?style=for-the-badge&logo=safari&logoColor=white)](https://josephangelherreramantilla.com)
-[![Email](https://img.shields.io/badge/Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahm1997@gmail.com)
-
----
+  <!-- ENLACES PRINCIPALES Y SITIOS WEB ACTIVOS -->
+  <a href="https://jahm1997.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_jahm1997.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=020617" alt="jahm1997.com" />
+  </a>
+  <a href="https://josephangelherreramantilla.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_josephangelherreramantilla.com-0f172a?style=for-the-badge&logo=safari&logoColor=6366f1&labelColor=020617" alt="josephangelherreramantilla.com" />
+  </a>
+  <a href="https://services.josephangelherreramantilla.com" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Live_Platform-0f172a?style=for-the-badge&logo=cloudflarestats&logoColor=22c55e&labelColor=020617" alt="Live Platform" />
+  </a>
+  <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=020617" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jahm1997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=020617" alt="Email" />
+  </a>
 
 </div>
 
+<br/>
+
 ```bash
-jahm1997@edge-gateway:~$ neofetch --engineer
+jahm1997@edge-cluster:~$ systemctl status jahm-architecture.service
 ```
 
 ```yaml
-HOST:             Joseph Ángel Herrera Mantilla (@jahm1997)
-ROLE:             Senior Full Stack Engineer & IIoT Platform Architect
-LOCATION:         Cartagena, Colombia (UTC-5)
-SPECIALIZATION:   Industrial Telemetry (OT) ➔ Real-Time Ingestion ➔ Distributed Microservices (IT)
-CORE_PARADIGM:    Zero-Downtime Live Migrations | Event-Driven Architectures | High Availability
-CURRENT_FOCUS:    Multi-Tenant IIoT Ecosystems, Industrial Protocols (MQTT, WebSockets, Modbus)
-MOTTO:            "From physical plant floor sensors to mission-critical cloud dashboards."
+● jahm-architecture.service - Production Platform & Industrial IoT Engine
+     Loaded: loaded (/etc/systemd/system/jahm.service; enabled; vendor preset: enabled)
+     Active: active (running) since 1997 [Continuous Deployment]
+   Engineer: Joseph Ángel Herrera Mantilla
+   Websites: https://jahm1997.com · https://josephangelherreramantilla.com
+   Platform: https://services.josephangelherreramantilla.com (Multi-Tenant Live)
+   Domains:  OT Field Instrumentation ➔ Real-Time Ingestion ➔ Distributed Backend ➔ Cloud Resiliency
+     Status: "Handling real-time industrial telemetry & zero-downtime microservices"
 ```
 
 ---
 
-### 🌐 End-to-End System Architecture
+### 🌐 Arquitectura de Flujo End-to-End (OT ➔ IT)
 
-```
- ┌──────────────────────────┐      ┌──────────────────────────┐      ┌──────────────────────────┐
- │   INDUSTRIAL OT LAYER    │      │  INGESTION & EVENT BUS   │      │   BACKEND DISTRIBUTED    │
- │                          │      │                          │      │                          │
- │  • PLCs & Field Sensors  │      │  • MQTT Broker / TCP     │      │  • Node.js / Express     │
- │  • Modbus / Profinet     │ ───► │  • Real-time WebSockets  │ ───► │  • Python Microservices  │
- │  • Edge Gateways & Mikrotik│    │  • Telemetry Ingestion   │      │  • Auth API & Multi-Tenant│
- └──────────────────────────┘      └──────────────────────────┘      └────────────┬─────────────┘
-                                                                                  │
- ┌──────────────────────────┐      ┌──────────────────────────┐                   │
- │   HIGH-PERFORMANCE UI    │      │ CLOUD & INFRASTRUCTURE   │                   │
- │                          │      │                          │                   ▼
- │  • React.js Real-time    │ ◄─── │  • Docker & Linux Host   │ ◄─────────────────┘
- │  • Live Monitoring Dash  │      │  • Nginx Reverse Proxy   │     ┌────────────────────────┐
- │  • Predictive Analytics  │      │  • AWS Cloud & CI/CD     │     │ STORAGE: Postgres/Mongo │
- └──────────────────────────┘      └──────────────────────────┘     └────────────────────────┘
-```
+<div align="center">
+  <img src="./assets/architecture-flow.svg" alt="Diagrama de Arquitectura End-to-End" width="100%" />
+</div>
+
+<br/>
+
+> **Criterio de Ingeniería Híbrido:** Diseño de soluciones que conectan la instrumentación física en planta (sensores, PLCs, telemetría continua) con arquitecturas de microservicios distribuidos, garantizando resiliencia, aislamiento multi-inquilino y visualización en tiempo real sin saturar la red operativa.
 
 ---
 
-### 🚀 Production Highlights & Core Engineering
+### 🚀 Hitos de Producción & Arquitectura Crítica
 
-- **⚡ Zero-Downtime Multi-Tenant Refactoring:** Reestructuré y estabilicé plataformas IIoT multi-inquilino activas en producción 24/7 sin interrumpir la operación continua ni pérdida de telemetría.
-- **📡 Pipeline de Ingestión en Tiempo Real:** Diseño y despliegue de microservicios de ingesta industrial capaces de procesar flujos continuos de datos vía **MQTT** y **WebSockets** desde controladores de campo.
-- **🛡️ Infraestructura & Hardening End-to-End:** Gestión de servidores Linux on-premise y cloud (AWS), orquestación con Docker, configuración perimetral con Nginx, firewalls y certificados SSL/TLS automatizados.
-- **🏭 Background Industrial Híbrido:** Experiencia real operando plantas químicas y procesos industriales automatizados, aportando un criterio único para diseñar software que entiende la realidad del hardware y los procesos físicos.
+* **⚡ Reestructuración Multi-Tenant sin Caída (Zero-Downtime):** Reorganización profunda de plataforma industrial en producción continua 24/7 sin interrumpir la operación de los clientes ni perder paquetes de telemetría.
+* **📡 Pipeline de Ingestión en Tiempo Real:** Diseño y desacoplamiento de microservicios de ingesta industrial capaces de procesar flujos continuos de datos vía **MQTT**, **WebSockets** y sockets TCP directamente desde gateways de campo y routers MikroTik.
+* **🛡️ Hardening e Infraestructura Perimetral:** Gestión de servidores Linux híbridos (Cloud AWS & On-Premise), contenedores Docker, proxy inverso con Nginx, aislamiento de red por VLANs y automatización de certificados SSL/TLS.
+* **🏭 Background Operativo Real:** Experiencia previa directa en control automatizado y operación de plantas industriales químicas y de manufactura (Andercol / Phoenix), proporcionando una comprensión innata de los procesos físicos que ningún desarrollador puramente teórico posee.
 
 ---
 
-### 🛠️ Technical Stack Matrix
+### 🛠️ Matriz de Capacidades Técnicas
 
 <table>
   <tr>
-    <td width="20%"><b>Industrial Edge & OT</b></td>
+    <td width="22%"><b>Industrial Edge &amp; OT</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
+      <img src="https://img.shields.io/badge/MQTT_Broker-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets"/>
       <img src="https://img.shields.io/badge/MikroTik_RouterOS-222222?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik"/>
-      <img src="https://img.shields.io/badge/Telemetry_Pipelines-00599C?style=flat-square&logo=apache-kafka&logoColor=white" alt="Telemetry"/>
-      <img src="https://img.shields.io/badge/Industrial_Networks-333333?style=flat-square" alt="Networks"/>
+      <img src="https://img.shields.io/badge/Industrial_Protocols-00599C?style=flat-square" alt="Protocols"/>
+      <img src="https://img.shields.io/badge/PLCs_&_Telemetry-333333?style=flat-square" alt="Telemetry"/>
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Microservices</b></td>
+    <td><b>Backend &amp; Ingestión</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="REST"/>
-      <img src="https://img.shields.io/badge/SOLID_&_MVC-4A154B?style=flat-square" alt="Clean Code"/>
+      <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="APIs"/>
+      <img src="https://img.shields.io/badge/SOLID_&_MVC-4A154B?style=flat-square" alt="SOLID"/>
     </td>
   </tr>
   <tr>
-    <td><b>Data & Persistence</b></td>
+    <td><b>Persistencia &amp; Datos</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -101,21 +96,21 @@ MOTTO:            "From physical plant floor sensors to mission-critical cloud d
     </td>
   </tr>
   <tr>
-    <td><b>Cloud & DevOps</b></td>
+    <td><b>Cloud &amp; DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
+      <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
       <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend & Real-Time</b></td>
+    <td><b>Frontend &amp; Control</b></td>
     <td>
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
     </td>
   </tr>
@@ -123,7 +118,7 @@ MOTTO:            "From physical plant floor sensors to mission-critical cloud d
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Actividad & Métricas en Vivo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahm1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
@@ -136,17 +131,18 @@ MOTTO:            "From physical plant floor sensors to mission-critical cloud d
 
 ---
 
-### 💬 Let's Connect & Build
+### 💼 Ecosistema & Contacto Directo
 
 ```ini
-[Direct Channel]
-Email       = jahm1997@gmail.com
-LinkedIn    = https://linkedin.com/in/joseph-angel-herrera-mantilla/
-Platform    = https://services.josephangelherreramantilla.com
-Web CV      = https://josephangelherreramantilla.com
-Availability= Open to Senior Full Stack, Backend Architecture & IIoT Leadership opportunities.
+[Production Nodes]
+Personal Website  = https://jahm1997.com
+Curriculum Web    = https://josephangelherreramantilla.com
+Enterprise Suite  = https://services.josephangelherreramantilla.com
+Email             = jahm1997@gmail.com
+LinkedIn          = https://linkedin.com/in/joseph-angel-herrera-mantilla/
+Location          = Cartagena, Colombia (UTC-5)
 ```
 
 <div align="center">
-  <sub>Configured with engineering rigor by Joseph Herrera · Designed for High-Impact Production</sub>
+  <sub>Arquitectura diseñada para sistemas de alta concurrencia y telemetría continua · Joseph Herrera</sub>
 </div>
