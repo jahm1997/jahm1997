@@ -1,114 +1,152 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Joseph%20Herrera&desc=Desarrollador%20Full%20Stack%20%7C%20Arquitecturas%20End-to-End&fontSize=60&descSize=20&animation=fadeIn)
-
 <div align="center">
-  <a href="https://github.com/jahm1997">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahm1997&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+
+```
+  ██╗ █████╗ ██╗  ██╗███╗   ███╗██╗██████╗  ██████╗ ███████╗
+  ██║██╔══██╗██║  ██║████╗ ████║███║██╔══██╗██╔═████╗╚════██║
+  ██║███████║███████║██╔████╔██║╚██║╚██████║██║██╔██║    ██╔╝
+  ██║██╔══██║██╔══██║██║╚██╔╝██║ ██║ ╚═══██║████╔╝██║   ██╔╝ 
+████║██║  ██║██║  ██║██║ ╚═╝ ██║ ██║██████╔╝╚██████╔╝   ██║  
+╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═╝╚═════╝  ╚═════╝    ╚═╝   
+```
+
+### **Joseph Ángel Herrera Mantilla**
+#### **Industrial IoT Architect & Senior Full Stack Engineer**
+*Bridging Industrial Field Operations (OT) with Resilient Cloud Architectures (IT)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-angel-herrera-mantilla/)
+[![Portfolio](https://img.shields.io/badge/Live_Platform-00D26A?style=for-the-badge&logo=google-cloud&logoColor=white)](https://services.josephangelherreramantilla.com)
+[![Web CV](https://img.shields.io/badge/Curriculum_Web-4B6BFB?style=for-the-badge&logo=safari&logoColor=white)](https://josephangelherreramantilla.com)
+[![Email](https://img.shields.io/badge/Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahm1997@gmail.com)
+
+---
+
 </div>
 
-### 👋 ¡Hola! Soy Joseph Angel Herrera Mantilla
+```bash
+jahm1997@edge-gateway:~$ neofetch --engineer
+```
 
-<p align="center">
-  <h3 align="center">Ingeniería de Software Integral: Desde la Infraestructura hasta el Cliente</h3>
-</p>
-
----
-
-## 👨‍💻 Acerca de mí
-
-Soy un **Desarrollador Full Stack** con dominio absoluto del ciclo de vida del software. Mi enfoque es construir soluciones tecnológicas end-to-end robustas, escalables y listas para producción. No solo escribo código; diseño e implemento todo el flujo de trabajo necesario para que un sistema opere al más alto nivel.
-
-* 🏗️ **Arquitectura y Flujo Completo:** Domino la creación de software en todas sus capas. Desde la gestión de servidores, control de dominios y configuración de certificados SSL, hasta el diseño de bases de datos, desarrollo de microservicios en el Backend y renderizado óptimo en el Frontend. Construyo ecosistemas seguros tanto para entornos de prueba como de producción.
-* 🔌 **Integración IT/OT (Mi valor agregado):** Poseo la capacidad analítica para comprender infraestructuras de red industriales (Intranet, Profinet). Me conecto a estos entornos para extraer telemetría y variables de PLCs/Sensores en tiempo real, integrando el mundo físico con arquitecturas web modernas sin necesidad de intervenir en la programación lógica del hardware.
-* 🚀 **Desarrollo Orientado a Resultados:** Construyo plataformas de alto rendimiento que garantizan la disponibilidad, la estabilidad y la seguridad del servicio, transformando requerimientos complejos en aplicaciones intuitivas y eficientes.
-* 🌱 Actualmente sigo expandiendo mis horizontes técnicos y perfeccionando mi nivel de inglés para entornos internacionales.
+```yaml
+HOST:             Joseph Ángel Herrera Mantilla (@jahm1997)
+ROLE:             Senior Full Stack Engineer & IIoT Platform Architect
+LOCATION:         Cartagena, Colombia (UTC-5)
+SPECIALIZATION:   Industrial Telemetry (OT) ➔ Real-Time Ingestion ➔ Distributed Microservices (IT)
+CORE_PARADIGM:    Zero-Downtime Live Migrations | Event-Driven Architectures | High Availability
+CURRENT_FOCUS:    Multi-Tenant IIoT Ecosystems, Industrial Protocols (MQTT, WebSockets, Modbus)
+MOTTO:            "From physical plant floor sensors to mission-critical cloud dashboards."
+```
 
 ---
 
-## 💼 Experiencia Laboral
+### 🌐 End-to-End System Architecture
 
-**Desarrollador FrontEnd Senior (Full Stack)** | *SENSORA SAS*
-*Enero 2024 – Actualidad*
-* Diseño, construcción y despliegue de arquitecturas de software en entornos híbridos (cloud y on-premise).
-* Gestión integral de la infraestructura: administración de servidores, redes, conexiones de datos y entornos de producción.
-* Desarrollo de soluciones Full Stack con procesamiento en tiempo real, integrando datos operativos extraídos de redes industriales hacia interfaces escalables.
-* Ejecución de migraciones controladas y despliegues end-to-end, asegurando la continuidad del negocio y minimizando tiempos de inactividad.
-
-**Desarrollador de Software (Full Stack)** | *SMARTIC S.A.S*
-*Agosto 2023 – Diciembre 2023*
-* Construcción de soluciones Full Stack estructuradas bajo arquitectura MVC y principios SOLID para garantizar escalabilidad y mantenibilidad.
-* Configuración de entornos de desarrollo y despliegue orientados a producción, respaldados con pruebas unitarias y documentación técnica.
-* Integración de sistemas y desarrollo de funcionalidades orientadas a ecosistemas tecnológicos industriales.
-
-**Asistente de Enseñanza (Remoto)** | *HENRY*
-*Febrero 2023 – Abril 2023*
-* Acompañamiento técnico y resolución de bloqueos en desarrollo de software para estudiantes del Bootcamp, fomentando buenas prácticas y Pair Programming.
-
-**Auxiliar de Planta** | *Jiro S.A. (Misión Andercol)*
-*Junio 2021 – Diciembre 2023*
-* Operación de sistemas de control automatizado y monitoreo constante de equipos e instrumentación (reactores, medidores, válvulas). *(Esta etapa consolidó mi comprensión profunda de la capa física e industrial que hoy integro y analizo mediante software).*
-
-**Auxiliar de Máquina** | *PHOENIX PACKAGING CARIBE S.A.S*
-*Julio 2017 – Octubre 2019*
-* Soporte técnico, monitoreo de variables de proceso y ajustes en equipos de producción.
+```
+ ┌──────────────────────────┐      ┌──────────────────────────┐      ┌──────────────────────────┐
+ │   INDUSTRIAL OT LAYER    │      │  INGESTION & EVENT BUS   │      │   BACKEND DISTRIBUTED    │
+ │                          │      │                          │      │                          │
+ │  • PLCs & Field Sensors  │      │  • MQTT Broker / TCP     │      │  • Node.js / Express     │
+ │  • Modbus / Profinet     │ ───► │  • Real-time WebSockets  │ ───► │  • Python Microservices  │
+ │  • Edge Gateways & Mikrotik│    │  • Telemetry Ingestion   │      │  • Auth API & Multi-Tenant│
+ └──────────────────────────┘      └──────────────────────────┘      └────────────┬─────────────┘
+                                                                                  │
+ ┌──────────────────────────┐      ┌──────────────────────────┐                   │
+ │   HIGH-PERFORMANCE UI    │      │ CLOUD & INFRASTRUCTURE   │                   │
+ │                          │      │                          │                   ▼
+ │  • React.js Real-time    │ ◄─── │  • Docker & Linux Host   │ ◄─────────────────┘
+ │  • Live Monitoring Dash  │      │  • Nginx Reverse Proxy   │     ┌────────────────────────┐
+ │  • Predictive Analytics  │      │  • AWS Cloud & CI/CD     │     │ STORAGE: Postgres/Mongo │
+ └──────────────────────────┘      └──────────────────────────┘     └────────────────────────┘
+```
 
 ---
 
-## 🎓 Estudios y Certificaciones
+### 🚀 Production Highlights & Core Engineering
 
-**Inglés (Módulo 2)** | *Centro Colombo Americano de Cartagena*
-*Inicio: Febrero 2026 – Actualidad*
-* Formación para el dominio del idioma en contextos técnicos y de negocios.
-
-**Desarrollador Full Stack (Bootcamp 600 Horas)** | *HENRY*
-*Enero 2023 – Abril 2023 (Grado: Abril 2023)*
-* Entrenamiento inmersivo en desarrollo web, arquitecturas modernas y herramientas de despliegue.
-
-**Desarrollador de Software & Habilidades en Programación Web (1600 Horas)** | *MinTic y U. Tecnológica de Pereira*
-*Marzo 2022 – Diciembre 2022*
-* Fundamentación técnica en lenguajes de programación, lógica de software y ecosistema web.
+- **⚡ Zero-Downtime Multi-Tenant Refactoring:** Reestructuré y estabilicé plataformas IIoT multi-inquilino activas en producción 24/7 sin interrumpir la operación continua ni pérdida de telemetría.
+- **📡 Pipeline de Ingestión en Tiempo Real:** Diseño y despliegue de microservicios de ingesta industrial capaces de procesar flujos continuos de datos vía **MQTT** y **WebSockets** desde controladores de campo.
+- **🛡️ Infraestructura & Hardening End-to-End:** Gestión de servidores Linux on-premise y cloud (AWS), orquestación con Docker, configuración perimetral con Nginx, firewalls y certificados SSL/TLS automatizados.
+- **🏭 Background Industrial Híbrido:** Experiencia real operando plantas químicas y procesos industriales automatizados, aportando un criterio único para diseñar software que entiende la realidad del hardware y los procesos físicos.
 
 ---
 
-## 🛠️ Stack Tecnológico y Flujo de Trabajo
+### 🛠️ Technical Stack Matrix
 
-**Infraestructura, DevOps & Backend**
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" alt="Express"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" alt="Git"/>
-<br>
-*(Gestión de entornos de Prueba/Producción, Certificados SSL, Dominios, Microservicios, APIs REST, WebSockets, MQTT, Integración Profinet)*
-
-**Bases de Datos**
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" alt="MongoDB"/>
-
-**Frontend & UI**
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="React"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" alt="Tailwind"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="Redux"/>
+<table>
+  <tr>
+    <td width="20%"><b>Industrial Edge & OT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets"/>
+      <img src="https://img.shields.io/badge/MikroTik_RouterOS-222222?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+      <img src="https://img.shields.io/badge/Telemetry_Pipelines-00599C?style=flat-square&logo=apache-kafka&logoColor=white" alt="Telemetry"/>
+      <img src="https://img.shields.io/badge/Industrial_Networks-333333?style=flat-square" alt="Networks"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Microservices</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="REST"/>
+      <img src="https://img.shields.io/badge/SOLID_&_MVC-4A154B?style=flat-square" alt="Clean Code"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Persistence</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
+      <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Real-Time</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 ¡Hablemos de código y arquitectura!
+### 📊 GitHub Activity & Metrics
 
-Si buscas un perfil capaz de levantar un proyecto desde cero, configurar su infraestructura y llevarlo hasta el usuario final, contáctame:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahm1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahm1997&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joseph-angel-herrera-mantilla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jahm1997@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/+573013316136" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahm1997&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
+</div>
+
+---
+
+### 💬 Let's Connect & Build
+
+```ini
+[Direct Channel]
+Email       = jahm1997@gmail.com
+LinkedIn    = https://linkedin.com/in/joseph-angel-herrera-mantilla/
+Platform    = https://services.josephangelherreramantilla.com
+Web CV      = https://josephangelherreramantilla.com
+Availability= Open to Senior Full Stack, Backend Architecture & IIoT Leadership opportunities.
+```
+
+<div align="center">
+  <sub>Configured with engineering rigor by Joseph Herrera · Designed for High-Impact Production</sub>
+</div>
